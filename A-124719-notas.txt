@@ -1,0 +1,8 @@
+Nome: João de Soares Fontes
+NMEC: 124719
+
+Comandos:
+
+pwd
+/home/runner/Teste03
+
