@@ -6,3 +6,14 @@ Comandos:
 pwd
 /home/runner/Teste03
 
+git init
+
+git add .
+
+git commit -m "2º tarefa concluída"
+
+git branch -M main
+
+git remote add origin https://github.com/sFontess/LI2024-Teste03.git
+
+git push -u origin main
